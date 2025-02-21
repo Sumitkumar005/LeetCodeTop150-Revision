@@ -2,9 +2,6 @@
 
 This repository contains solutions to the **Leetcode Top Interview 150** problems. These challenges cover data structures, algorithms, and problem‐solving techniques commonly asked in technical interviews.
 
-Show some ❤️ by starring ⭐ this repository if you like it!
-
-For work inquiries, please contact: [chunhthanhde.dev@gmail.com](mailto:chunhthanhde.dev@gmail.com)
 
 ---
 
@@ -690,4 +687,4 @@ Each problem is stored in its own directory (named by its problem number). Insid
 
 **If you enjoy these resources, please show some ❤️ by starring ⭐ this repository!**
 
-For work inquiries, contact: [chunhthanhde.dev@gmail.com](mailto:chunhthanhde.dev@gmail.com)
+For work inquiries, contact: [sumitkumar969074@gmail.com](mailto:sumitkumar969074@gmail.com)
