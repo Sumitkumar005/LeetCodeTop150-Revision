@@ -681,7 +681,6 @@ Each problem is stored in its own directory (named by its problem number). Insid
 
 - [Leetcode](https://leetcode.com)
 - [Top 150 Interview Questions - Leetcode](https://leetcode.com/problemset/top-interview-150)
-- [GitBook Solution](#) *(Add your GitBook link if available)*
 
 ---
 
